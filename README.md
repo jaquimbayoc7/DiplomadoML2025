@@ -66,8 +66,9 @@ Abre un Pull Request desde tu fork al repositorio principal
 
 ## Contacto 📧
 
-Para preguntas o sugerencias relacionadas con este repositorio, puedes contactar al administrador:
+Para preguntas o sugerencias relacionadas con este repositorio, puedes contactar a los administradores:
 - GitHub: [@jaquimbayoc7](https://github.com/jaquimbayoc7)
+- GitHub: [@jose-llanos](https://github.com/jose-llanos)
 
 ## Licencia ⚖️
 
